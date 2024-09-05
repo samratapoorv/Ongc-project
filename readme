@@ -1,0 +1,7 @@
+Developed a project in ongc under a mentor for categorization of the images that are present in a pdf and than store them in a different folders based on keywords like 
+keywords = [
+    "Location", "Geological", "Structure", "Seismic Lines",
+    "Log motif", "Well construction diagram", "drilling",
+    "Geotechnical order", "Stratigraphy and casing plot",
+    "Remote sensing image", "Contour", "Structure Contour map",
+].
